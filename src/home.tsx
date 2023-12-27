@@ -6,7 +6,8 @@ import { pipe } from "fp-ts/function";
 import { contramap } from "fp-ts/lib/Ord";
 import * as N from "fp-ts/number";
 import { useMemo, useState } from "react";
-import eval_result from "../scripts/eval_result.json";
+import eval35 from "../scripts/eval_result_gpt3.5.json";
+import eval40 from "../scripts/eval_result_gpt4.json";
 import { ms } from "../utils/functions";
 
 const categories = {
@@ -55,11 +56,22 @@ function Home() {
   const [selectedValue, setSelectedValue] = useState<O.Option<any>>(O.none);
   const [macro, setMacro] = useState<Macro>("calories");
   const [selectedCategory, setSelectedCategory] = useState<any>("all");
+  const [model, setModel] = useState<string>("gpt-3.5");
+
+  const dataset = useMemo(() => {
+    if (model === "gpt-3.5") {
+      return eval35;
+    } else if (model === "gpt-4") {
+      return eval40;
+    } else {
+      return eval40;
+    }
+  }, [model]);
 
   const values = useMemo(
     () =>
       pipe(
-        eval_result,
+        dataset,
         AR.map((food) => ({
           true: food.nutrients[macro],
           predicted: food.estimated_nutrients[macro],
@@ -68,7 +80,7 @@ function Home() {
         })),
         AR.sortBy([byError])
       ),
-    [eval_result, macro]
+    [dataset, macro]
   );
 
   const valueToPosition = useMemo(
@@ -107,17 +119,34 @@ function Home() {
       </div>
 
       <div className="workspace">
-        <div className="tabs">
-          {["calories", "carbohydrates", "proteins", "fats"].map((tab: any) => (
-            <div
-              className={cx("tab", { ["selected"]: tab === macro })}
-              onClick={() => {
-                setMacro(tab);
-              }}
-            >
-              {tab}
-            </div>
-          ))}
+        <div className="filters">
+          <div className="tabs">
+            {["calories", "carbohydrates", "proteins", "fats"].map(
+              (tab: any) => (
+                <div
+                  className={cx("tab", { ["selected"]: tab === macro })}
+                  onClick={() => {
+                    setMacro(tab);
+                  }}
+                >
+                  {tab}
+                </div>
+              )
+            )}
+          </div>
+
+          <div className="tabs">
+            {["gpt-3.5", "gpt-4"].map((tab) => (
+              <div
+                className={cx("tab", { ["selected"]: tab === model })}
+                onClick={() => {
+                  setModel(tab);
+                }}
+              >
+                {tab}
+              </div>
+            ))}
+          </div>
         </div>
 
         <div className="values">

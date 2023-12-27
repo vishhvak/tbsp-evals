@@ -61,25 +61,31 @@ body {
     flex-direction: column;
     gap: ms(0);
 
-    .tabs {
+    .filters {
       display: flex;
       flex-direction: row;
-      gap: ms(-2);
+      justify-content: space-between;
 
-      .tab {
-        background: $gray-200;
-        padding: ms(-8) ms(-6);
-        cursor: pointer;
-        border-radius: ms(-6);
-        color: $gray-600;
+      .tabs {
+        display: flex;
+        flex-direction: row;
+        gap: ms(-2);
 
-        &.selected {
-          background: $emerald-300;
-          color: $emerald-900;
-        }
+        .tab {
+          background: $gray-200;
+          padding: ms(-8) ms(-6);
+          cursor: pointer;
+          border-radius: ms(-6);
+          color: $gray-600;
 
-        &:active {
-          transform: scale(0.95);
+          &.selected {
+            background: $emerald-300;
+            color: $emerald-900;
+          }
+
+          &:active {
+            transform: scale(0.95);
+          }
         }
       }
     }
