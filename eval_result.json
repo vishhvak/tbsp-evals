@@ -1,0 +1,1702 @@
+[
+    {
+        "item_description": "mollusks scallop (bay and sea) cooked steamed",
+        "nutrients": {
+            "calories": 111.0,
+            "carbohydrates": 5.41,
+            "fats": 0.84,
+            "proteins": 20.54
+        },
+        "estimated_nutrients": {
+            "calories": 111,
+            "carbohydrates": 3.2,
+            "fats": 0.8,
+            "proteins": 23.2
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: proteins"
+    },
+    {
+        "item_description": "denny's spaghetti and meatballs",
+        "nutrients": {
+            "calories": 170.0,
+            "carbohydrates": 15.51,
+            "fats": 8.52,
+            "proteins": 7.84
+        },
+        "estimated_nutrients": {
+            "calories": 255,
+            "carbohydrates": 31,
+            "fats": 11,
+            "proteins": 14
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: proteins"
+    },
+    {
+        "item_description": "digiorno pizza cheese topping rising crust frozen baked",
+        "nutrients": {
+            "calories": 256.0,
+            "carbohydrates": 31.78,
+            "fats": 8.6,
+            "proteins": 12.8
+        },
+        "estimated_nutrients": {
+            "calories": 280,
+            "carbohydrates": 34,
+            "fats": 10,
+            "proteins": 12
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: proteins"
+    },
+    {
+        "item_description": "fast foods hamburger; single regular patty; with condiments",
+        "nutrients": {
+            "calories": 263.0,
+            "carbohydrates": 29.57,
+            "fats": 10.18,
+            "proteins": 13.3
+        },
+        "estimated_nutrients": {
+            "calories": 250,
+            "carbohydrates": 30,
+            "fats": 10,
+            "proteins": 13
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: proteins"
+    },
+    {
+        "item_description": "cinnamon buns frosted (includes honey buns)",
+        "nutrients": {
+            "calories": 452.0,
+            "carbohydrates": 48.6,
+            "fats": 26.61,
+            "proteins": 4.45
+        },
+        "estimated_nutrients": {
+            "calories": 423,
+            "carbohydrates": 56.7,
+            "fats": 16.8,
+            "proteins": 4.6
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: proteins"
+    },
+    {
+        "item_description": "chicken broiler rotisserie bbq wing meat only",
+        "nutrients": {
+            "calories": 184.0,
+            "carbohydrates": 0.54,
+            "fats": 7.79,
+            "proteins": 28.34
+        },
+        "estimated_nutrients": {
+            "calories": 165,
+            "carbohydrates": 0,
+            "fats": 3.5,
+            "proteins": 30.5
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: proteins"
+    },
+    {
+        "item_description": "kumquats raw",
+        "nutrients": {
+            "calories": 71.0,
+            "carbohydrates": 15.9,
+            "fats": 0.86,
+            "proteins": 1.88
+        },
+        "estimated_nutrients": {
+            "calories": 71,
+            "carbohydrates": 15.9,
+            "fats": 0.9,
+            "proteins": 1.9
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: proteins"
+    },
+    {
+        "item_description": "alcoholic beverage beer light budweiser select",
+        "nutrients": {
+            "calories": 28.0,
+            "carbohydrates": 0.87,
+            "fats": 0.0,
+            "proteins": 0.2
+        },
+        "estimated_nutrients": {
+            "calories": 55,
+            "carbohydrates": 3.1,
+            "fats": 0.0,
+            "proteins": 0.5
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: proteins"
+    },
+    {
+        "item_description": "puff pastry frozen ready-to-bake baked",
+        "nutrients": {
+            "calories": 558.0,
+            "carbohydrates": 45.7,
+            "fats": 38.5,
+            "proteins": 7.4
+        },
+        "estimated_nutrients": {
+            "calories": 558,
+            "carbohydrates": 38.1,
+            "fats": 38.5,
+            "proteins": 5.5
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: proteins"
+    },
+    {
+        "item_description": "pineapple juice canned or bottled unsweetened with added ascorbic acid",
+        "nutrients": {
+            "calories": 53.0,
+            "carbohydrates": 12.87,
+            "fats": 0.12,
+            "proteins": 0.36
+        },
+        "estimated_nutrients": {
+            "calories": 53,
+            "carbohydrates": 13.12,
+            "fats": 0.12,
+            "proteins": 0.54
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: proteins"
+    },
+    {
+        "item_description": "bread reduced-calorie oatmeal",
+        "nutrients": {
+            "calories": 210.0,
+            "carbohydrates": 43.3,
+            "fats": 3.5,
+            "proteins": 7.6
+        },
+        "estimated_nutrients": {
+            "calories": 180.0,
+            "carbohydrates": 40.0,
+            "fats": 1.5,
+            "proteins": 8.0
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: proteins"
+    },
+    {
+        "item_description": "fast foods hotdog with corn flour coating (corndog)",
+        "nutrients": {
+            "calories": 263.0,
+            "carbohydrates": 31.88,
+            "fats": 10.8,
+            "proteins": 9.6
+        },
+        "estimated_nutrients": {
+            "calories": 220,
+            "carbohydrates": 24,
+            "fats": 11,
+            "proteins": 6
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: proteins"
+    },
+    {
+        "item_description": "watercress raw",
+        "nutrients": {
+            "calories": 11.0,
+            "carbohydrates": 1.29,
+            "fats": 0.1,
+            "proteins": 2.3
+        },
+        "estimated_nutrients": {
+            "calories": 11,
+            "carbohydrates": 1.29,
+            "fats": 0.1,
+            "proteins": 2.3
+        },
+        "correct": true,
+        "reason": "Match"
+    },
+    {
+        "item_description": "beets canned drained solids",
+        "nutrients": {
+            "calories": 31.0,
+            "carbohydrates": 7.21,
+            "fats": 0.14,
+            "proteins": 0.91
+        },
+        "estimated_nutrients": {
+            "calories": 44,
+            "carbohydrates": 9.6,
+            "fats": 0.1,
+            "proteins": 1.6
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: proteins"
+    },
+    {
+        "item_description": "turkey retail parts breast meat only raw",
+        "nutrients": {
+            "calories": 114.0,
+            "carbohydrates": 0.0,
+            "fats": 2.33,
+            "proteins": 23.34
+        },
+        "estimated_nutrients": {
+            "calories": 104,
+            "carbohydrates": 0,
+            "fats": 0.7,
+            "proteins": 23.1
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: proteins"
+    },
+    {
+        "item_description": "lamb australian imported fresh shoulder blade separable lean and fat trimmed to 1/8\" fat cooked broiled",
+        "nutrients": {
+            "calories": 291.0,
+            "carbohydrates": 0.0,
+            "fats": 22.03,
+            "proteins": 21.71
+        },
+        "estimated_nutrients": {
+            "calories": 258,
+            "carbohydrates": 0,
+            "fats": 16.56,
+            "proteins": 30.21
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: proteins"
+    },
+    {
+        "item_description": "soup clam chowder new england canned ready-to-serve",
+        "nutrients": {
+            "calories": 79.0,
+            "carbohydrates": 8.28,
+            "fats": 3.94,
+            "proteins": 2.61
+        },
+        "estimated_nutrients": {
+            "calories": 86,
+            "carbohydrates": 8.24,
+            "fats": 4.04,
+            "proteins": 2.88
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: proteins"
+    },
+    {
+        "item_description": "babyfood cereal mixed dry fortified",
+        "nutrients": {
+            "calories": 379.0,
+            "carbohydrates": 73.4,
+            "fats": 4.4,
+            "proteins": 12.2
+        },
+        "estimated_nutrients": {
+            "calories": 365.0,
+            "carbohydrates": 77.0,
+            "fats": 1.0,
+            "proteins": 7.0
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: proteins"
+    },
+    {
+        "item_description": "cereals wheatena dry",
+        "nutrients": {
+            "calories": 357.0,
+            "carbohydrates": 75.6,
+            "fats": 2.9,
+            "proteins": 13.1
+        },
+        "estimated_nutrients": {
+            "calories": 332,
+            "carbohydrates": 74,
+            "fats": 1,
+            "proteins": 12
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: proteins"
+    },
+    {
+        "item_description": "mayonnaise dressing no cholesterol",
+        "nutrients": {
+            "calories": 688.0,
+            "carbohydrates": 0.3,
+            "fats": 77.8,
+            "proteins": 0.0
+        },
+        "estimated_nutrients": {
+            "calories": 680,
+            "carbohydrates": 0.6,
+            "fats": 75,
+            "proteins": 1
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: proteins"
+    },
+    {
+        "item_description": "babyfood dinner macaroni and cheese junior",
+        "nutrients": {
+            "calories": 61.0,
+            "carbohydrates": 8.2,
+            "fats": 2.0,
+            "proteins": 2.6
+        },
+        "estimated_nutrients": {
+            "calories": 83,
+            "carbohydrates": 10.5,
+            "fats": 3.5,
+            "proteins": 4.7
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: proteins"
+    },
+    {
+        "item_description": "beef round top round separable lean and fat trimmed to 1/8\" fat prime raw",
+        "nutrients": {
+            "calories": 173.0,
+            "carbohydrates": 0.0,
+            "fats": 8.67,
+            "proteins": 22.24
+        },
+        "estimated_nutrients": {
+            "calories": 212,
+            "carbohydrates": 0,
+            "fats": 14.0,
+            "proteins": 20.9
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: proteins"
+    },
+    {
+        "item_description": "pie banana cream prepared from recipe",
+        "nutrients": {
+            "calories": 269.0,
+            "carbohydrates": 32.9,
+            "fats": 13.6,
+            "proteins": 4.4
+        },
+        "estimated_nutrients": {
+            "calories": 172,
+            "carbohydrates": 22.47,
+            "fats": 10.29,
+            "proteins": 2.11
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: proteins"
+    },
+    {
+        "item_description": "lamb australian ground  85% lean / 15% fat raw",
+        "nutrients": {
+            "calories": 255.0,
+            "carbohydrates": 0.0,
+            "fats": 20.71,
+            "proteins": 17.14
+        },
+        "estimated_nutrients": {
+            "calories": 282,
+            "carbohydrates": 0,
+            "fats": 18.8,
+            "proteins": 16.56
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: proteins"
+    },
+    {
+        "item_description": "beef brisket flat half separable lean only trimmed to 0\" fat all grades cooked braised",
+        "nutrients": {
+            "calories": 205.0,
+            "carbohydrates": 0.0,
+            "fats": 6.99,
+            "proteins": 33.26
+        },
+        "estimated_nutrients": {
+            "calories": 194,
+            "carbohydrates": 0,
+            "fats": 8.3,
+            "proteins": 27.8
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: proteins"
+    },
+    {
+        "item_description": "figs canned light syrup pack solids and liquids",
+        "nutrients": {
+            "calories": 69.0,
+            "carbohydrates": 17.95,
+            "fats": 0.1,
+            "proteins": 0.39
+        },
+        "estimated_nutrients": {
+            "calories": 111,
+            "carbohydrates": 30.69,
+            "fats": 0.1,
+            "proteins": 0.39
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: carbohydrates"
+    },
+    {
+        "item_description": "rolls hamburger or hotdog plain",
+        "nutrients": {
+            "calories": 279.0,
+            "carbohydrates": 50.12,
+            "fats": 3.91,
+            "proteins": 9.77
+        },
+        "estimated_nutrients": {
+            "calories": 260,
+            "carbohydrates": 49,
+            "fats": 3.5,
+            "proteins": 9
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: proteins"
+    },
+    {
+        "item_description": "guanabana nectar canned",
+        "nutrients": {
+            "calories": 59.0,
+            "carbohydrates": 14.93,
+            "fats": 0.17,
+            "proteins": 0.11
+        },
+        "estimated_nutrients": {
+            "calories": 100,
+            "carbohydrates": 25.0,
+            "fats": 0.2,
+            "proteins": 0.0
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: proteins"
+    },
+    {
+        "item_description": "pie fillings cherry low calorie",
+        "nutrients": {
+            "calories": 53.0,
+            "carbohydrates": 11.98,
+            "fats": 0.16,
+            "proteins": 0.82
+        },
+        "estimated_nutrients": {
+            "calories": 113,
+            "carbohydrates": 28.4,
+            "fats": 0.2,
+            "proteins": 0.5
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: proteins"
+    },
+    {
+        "item_description": "stew moose (alaska native)",
+        "nutrients": {
+            "calories": 55.0,
+            "carbohydrates": 6.0,
+            "fats": 0.5,
+            "proteins": 6.6
+        },
+        "estimated_nutrients": {
+            "calories": 94,
+            "carbohydrates": 0,
+            "fats": 1.0,
+            "proteins": 20.4
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: proteins"
+    },
+    {
+        "item_description": "pepperidge farm goldfish baked snack crackers pizza",
+        "nutrients": {
+            "calories": 469.0,
+            "carbohydrates": 65.11,
+            "fats": 18.93,
+            "proteins": 9.67
+        },
+        "estimated_nutrients": {
+            "calories": 467,
+            "carbohydrates": 64.4,
+            "fats": 18.5,
+            "proteins": 10.3
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: proteins"
+    },
+    {
+        "item_description": "gravy campbell's mushroom",
+        "nutrients": {
+            "calories": 34.0,
+            "carbohydrates": 5.08,
+            "fats": 1.69,
+            "proteins": 0.0
+        },
+        "estimated_nutrients": {
+            "calories": 50,
+            "carbohydrates": 6.0,
+            "fats": 2.0,
+            "proteins": 1.0
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: proteins"
+    },
+    {
+        "item_description": "crustaceans shrimp mixed species raw (may have been previously frozen)",
+        "nutrients": {
+            "calories": 71.0,
+            "carbohydrates": 0.91,
+            "fats": 1.01,
+            "proteins": 13.61
+        },
+        "estimated_nutrients": {
+            "calories": 85,
+            "carbohydrates": 0.0,
+            "fats": 0.3,
+            "proteins": 20.3
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: proteins"
+    },
+    {
+        "item_description": "acerola juice raw",
+        "nutrients": {
+            "calories": 23.0,
+            "carbohydrates": 4.8,
+            "fats": 0.3,
+            "proteins": 0.4
+        },
+        "estimated_nutrients": {
+            "calories": 23,
+            "carbohydrates": 4.8,
+            "fats": 0.3,
+            "proteins": 0.4
+        },
+        "correct": true,
+        "reason": "Match"
+    },
+    {
+        "item_description": "nuts mixed nuts oil roasted without peanuts lightly salted",
+        "nutrients": {
+            "calories": 607.0,
+            "carbohydrates": 25.0,
+            "fats": 50.0,
+            "proteins": 17.86
+        },
+        "estimated_nutrients": {
+            "calories": 640.0,
+            "carbohydrates": 18.0,
+            "fats": 56.0,
+            "proteins": 17.0
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: proteins"
+    },
+    {
+        "item_description": "cereals ready-to-eat general mills oat cluster cheerios crunch",
+        "nutrients": {
+            "calories": 378.0,
+            "carbohydrates": 80.7,
+            "fats": 4.6,
+            "proteins": 8.5
+        },
+        "estimated_nutrients": {
+            "calories": 377,
+            "carbohydrates": 74,
+            "fats": 4.5,
+            "proteins": 9
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: proteins"
+    },
+    {
+        "item_description": "candies hersheys payday bar",
+        "nutrients": {
+            "calories": 490.0,
+            "carbohydrates": 52.88,
+            "fats": 25.0,
+            "proteins": 13.44
+        },
+        "estimated_nutrients": {
+            "calories": 483,
+            "carbohydrates": 51.5,
+            "fats": 19.8,
+            "proteins": 9.5
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: proteins"
+    },
+    {
+        "item_description": "beverages malted drink mix chocolate powder",
+        "nutrients": {
+            "calories": 411.0,
+            "carbohydrates": 86.94,
+            "fats": 4.76,
+            "proteins": 5.1
+        },
+        "estimated_nutrients": {
+            "calories": 389,
+            "carbohydrates": 77.7,
+            "fats": 3.3,
+            "proteins": 9.8
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: proteins"
+    },
+    {
+        "item_description": "pie crust standard-type dry mix prepared baked",
+        "nutrients": {
+            "calories": 501.0,
+            "carbohydrates": 50.4,
+            "fats": 30.4,
+            "proteins": 6.7
+        },
+        "estimated_nutrients": {
+            "calories": 502,
+            "carbohydrates": 45.2,
+            "fats": 26.5,
+            "proteins": 5.1
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: proteins"
+    },
+    {
+        "item_description": "beef ground 75% lean meat / 25% fat patty cooked pan-broiled",
+        "nutrients": {
+            "calories": 248.0,
+            "carbohydrates": 0.0,
+            "fats": 16.44,
+            "proteins": 23.45
+        },
+        "estimated_nutrients": {
+            "calories": 278,
+            "carbohydrates": 0,
+            "fats": 19.54,
+            "proteins": 25.44
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: proteins"
+    },
+    {
+        "item_description": "soymilk chocolate with added calcium vitamins a and d",
+        "nutrients": {
+            "calories": 63.0,
+            "carbohydrates": 9.95,
+            "fats": 1.53,
+            "proteins": 2.26
+        },
+        "estimated_nutrients": {
+            "calories": 70.0,
+            "carbohydrates": 10.0,
+            "fats": 2.0,
+            "proteins": 3.0
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: proteins"
+    },
+    {
+        "item_description": "beef chuck mock tender steak boneless separable lean only trimmed to 0\" fat select cooked braised",
+        "nutrients": {
+            "calories": 181.0,
+            "carbohydrates": 0.0,
+            "fats": 5.44,
+            "proteins": 32.96
+        },
+        "estimated_nutrients": {
+            "calories": 210,
+            "carbohydrates": 0,
+            "fats": 8.7,
+            "proteins": 29.8
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: proteins"
+    },
+    {
+        "item_description": "nuts chestnuts japanese roasted",
+        "nutrients": {
+            "calories": 201.0,
+            "carbohydrates": 45.13,
+            "fats": 0.8,
+            "proteins": 2.97
+        },
+        "estimated_nutrients": {
+            "calories": 207,
+            "carbohydrates": 44.17,
+            "fats": 1.26,
+            "proteins": 3.17
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: proteins"
+    },
+    {
+        "item_description": "pork fresh loin country-style ribs separable lean only boneless cooked roasted",
+        "nutrients": {
+            "calories": 219.0,
+            "carbohydrates": 0.0,
+            "fats": 11.38,
+            "proteins": 29.2
+        },
+        "estimated_nutrients": {
+            "calories": 242.0,
+            "carbohydrates": 0.0,
+            "fats": 14.52,
+            "proteins": 26.44
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: proteins"
+    },
+    {
+        "item_description": "fish carp cooked dry heat",
+        "nutrients": {
+            "calories": 162.0,
+            "carbohydrates": 0.0,
+            "fats": 7.17,
+            "proteins": 22.86
+        },
+        "estimated_nutrients": {
+            "calories": 162,
+            "carbohydrates": 0,
+            "fats": 5.6,
+            "proteins": 23.33
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: proteins"
+    },
+    {
+        "item_description": "beverages energy drink with carbonated water and high fructose corn syrup",
+        "nutrients": {
+            "calories": 62.0,
+            "carbohydrates": 15.0,
+            "fats": 0.0,
+            "proteins": 0.42
+        },
+        "estimated_nutrients": {
+            "calories": 43,
+            "carbohydrates": 11.3,
+            "fats": 0,
+            "proteins": 0.2
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: proteins"
+    },
+    {
+        "item_description": "cereals ready-to-eat kashi golean",
+        "nutrients": {
+            "calories": 311.0,
+            "carbohydrates": 67.19,
+            "fats": 2.2,
+            "proteins": 24.89
+        },
+        "estimated_nutrients": {
+            "calories": 180,
+            "carbohydrates": 35,
+            "fats": 1,
+            "proteins": 13
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: proteins"
+    },
+    {
+        "item_description": "rennin vanilla dry mix prepared with whole milk",
+        "nutrients": {
+            "calories": 89.0,
+            "carbohydrates": 12.21,
+            "fats": 3.07,
+            "proteins": 3.03
+        },
+        "estimated_nutrients": {
+            "calories": 89,
+            "carbohydrates": 12.8,
+            "fats": 3.3,
+            "proteins": 3.1
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: proteins"
+    },
+    {
+        "item_description": "beverages dairy drink mix chocolate reduced calorie with low-calorie sweeteners powder",
+        "nutrients": {
+            "calories": 329.0,
+            "carbohydrates": 51.4,
+            "fats": 2.6,
+            "proteins": 25.0
+        },
+        "estimated_nutrients": {
+            "calories": 355,
+            "carbohydrates": 62.9,
+            "fats": 3.4,
+            "proteins": 5.9
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: proteins"
+    },
+    {
+        "item_description": "chicken broilers or fryers leg meat and skin cooked stewed",
+        "nutrients": {
+            "calories": 220.0,
+            "carbohydrates": 0.0,
+            "fats": 12.92,
+            "proteins": 24.17
+        },
+        "estimated_nutrients": {
+            "calories": 210,
+            "carbohydrates": 0,
+            "fats": 11.2,
+            "proteins": 24.5
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: proteins"
+    },
+    {
+        "item_description": "spices caraway seed",
+        "nutrients": {
+            "calories": 333.0,
+            "carbohydrates": 49.9,
+            "fats": 14.59,
+            "proteins": 19.77
+        },
+        "estimated_nutrients": {
+            "calories": 333,
+            "carbohydrates": 49.9,
+            "fats": 14.6,
+            "proteins": 19.8
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: proteins"
+    },
+    {
+        "item_description": "beef chuck arm pot roast separable lean and fat trimmed to 0\" fat select cooked braised",
+        "nutrients": {
+            "calories": 283.0,
+            "carbohydrates": 0.0,
+            "fats": 17.56,
+            "proteins": 29.23
+        },
+        "estimated_nutrients": {
+            "calories": 252,
+            "carbohydrates": 0,
+            "fats": 14.6,
+            "proteins": 27.8
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: proteins"
+    },
+    {
+        "item_description": "fish turbot european raw",
+        "nutrients": {
+            "calories": 95.0,
+            "carbohydrates": 0.0,
+            "fats": 2.95,
+            "proteins": 16.05
+        },
+        "estimated_nutrients": {
+            "calories": 95,
+            "carbohydrates": 0.0,
+            "fats": 3.2,
+            "proteins": 18.1
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: proteins"
+    },
+    {
+        "item_description": "morningstar farms veggie dog frozen unprepared",
+        "nutrients": {
+            "calories": 126.0,
+            "carbohydrates": 11.2,
+            "fats": 1.3,
+            "proteins": 17.4
+        },
+        "estimated_nutrients": {
+            "calories": 70,
+            "carbohydrates": 4,
+            "fats": 0.5,
+            "proteins": 11
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: proteins"
+    },
+    {
+        "item_description": "beans baked canned with beef",
+        "nutrients": {
+            "calories": 121.0,
+            "carbohydrates": 16.91,
+            "fats": 3.45,
+            "proteins": 6.38
+        },
+        "estimated_nutrients": {
+            "calories": 155,
+            "carbohydrates": 22.3,
+            "fats": 2.1,
+            "proteins": 7.7
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: proteins"
+    },
+    {
+        "item_description": "squash summer all varieties cooked boiled drained without salt",
+        "nutrients": {
+            "calories": 20.0,
+            "carbohydrates": 4.31,
+            "fats": 0.31,
+            "proteins": 0.91
+        },
+        "estimated_nutrients": {
+            "calories": 39,
+            "carbohydrates": 8.71,
+            "fats": 0.18,
+            "proteins": 1.84
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: proteins"
+    },
+    {
+        "item_description": "babyfood apples dices toddler",
+        "nutrients": {
+            "calories": 51.0,
+            "carbohydrates": 12.1,
+            "fats": 0.1,
+            "proteins": 0.2
+        },
+        "estimated_nutrients": {
+            "calories": 53,
+            "carbohydrates": 12.2,
+            "fats": 0.2,
+            "proteins": 0.3
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: proteins"
+    },
+    {
+        "item_description": "squirrel ground meat (alaska native)",
+        "nutrients": {
+            "calories": 111.0,
+            "carbohydrates": 0.0,
+            "fats": 3.8,
+            "proteins": 19.3
+        },
+        "estimated_nutrients": {
+            "calories": 173,
+            "carbohydrates": 0,
+            "fats": 5.7,
+            "proteins": 20.6
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: proteins"
+    },
+    {
+        "item_description": "snacks potato chips cheese-flavor",
+        "nutrients": {
+            "calories": 496.0,
+            "carbohydrates": 57.7,
+            "fats": 27.2,
+            "proteins": 8.5
+        },
+        "estimated_nutrients": {
+            "calories": 510,
+            "carbohydrates": 51,
+            "fats": 30,
+            "proteins": 7
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: proteins"
+    },
+    {
+        "item_description": "breakfast bars oats sugar raisins coconut (include granola bar)",
+        "nutrients": {
+            "calories": 464.0,
+            "carbohydrates": 66.7,
+            "fats": 17.6,
+            "proteins": 9.8
+        },
+        "estimated_nutrients": {
+            "calories": 400.0,
+            "carbohydrates": 68.0,
+            "fats": 9.0,
+            "proteins": 8.0
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: proteins"
+    },
+    {
+        "item_description": "little caesars 14\" cheese pizza large deep dish crust",
+        "nutrients": {
+            "calories": 263.0,
+            "carbohydrates": 30.1,
+            "fats": 10.22,
+            "proteins": 12.63
+        },
+        "estimated_nutrients": {
+            "calories": 340,
+            "carbohydrates": 32,
+            "fats": 17,
+            "proteins": 15
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: proteins"
+    },
+    {
+        "item_description": "frozen novelties ice cream type vanilla ice cream light no sugar added chocolate coated",
+        "nutrients": {
+            "calories": 221.0,
+            "carbohydrates": 26.11,
+            "fats": 10.1,
+            "proteins": 6.4
+        },
+        "estimated_nutrients": {
+            "calories": 200,
+            "carbohydrates": 23.0,
+            "fats": 11.0,
+            "proteins": 3.5
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: proteins"
+    },
+    {
+        "item_description": "refried beans canned traditional reduced sodium",
+        "nutrients": {
+            "calories": 89.0,
+            "carbohydrates": 13.55,
+            "fats": 2.01,
+            "proteins": 4.98
+        },
+        "estimated_nutrients": {
+            "calories": 120,
+            "carbohydrates": 15.5,
+            "fats": 2.5,
+            "proteins": 5.5
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: proteins"
+    },
+    {
+        "item_description": "plums dried (prunes) stewed without added sugar",
+        "nutrients": {
+            "calories": 107.0,
+            "carbohydrates": 28.08,
+            "fats": 0.16,
+            "proteins": 0.96
+        },
+        "estimated_nutrients": {
+            "calories": 107,
+            "carbohydrates": 22.7,
+            "fats": 0.38,
+            "proteins": 1.88
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: proteins"
+    },
+    {
+        "item_description": "sausage polish pork and beef smoked",
+        "nutrients": {
+            "calories": 301.0,
+            "carbohydrates": 1.98,
+            "fats": 26.56,
+            "proteins": 12.07
+        },
+        "estimated_nutrients": {
+            "calories": 330,
+            "carbohydrates": 1.2,
+            "fats": 28.8,
+            "proteins": 12.9
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: proteins"
+    },
+    {
+        "item_description": "beef chuck eye roast boneless america's beef roast separable lean only trimmed to 0\" fat all grades cooked roasted",
+        "nutrients": {
+            "calories": 183.0,
+            "carbohydrates": 0.0,
+            "fats": 8.46,
+            "proteins": 26.65
+        },
+        "estimated_nutrients": {
+            "calories": 217,
+            "carbohydrates": 0,
+            "fats": 8.8,
+            "proteins": 28.44
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: proteins"
+    },
+    {
+        "item_description": "soup cream of asparagus canned prepared with equal volume milk",
+        "nutrients": {
+            "calories": 65.0,
+            "carbohydrates": 6.61,
+            "fats": 3.3,
+            "proteins": 2.55
+        },
+        "estimated_nutrients": {
+            "calories": 99,
+            "carbohydrates": 8.4,
+            "fats": 5.7,
+            "proteins": 3.0
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: proteins"
+    },
+    {
+        "item_description": "lamb domestic shoulder blade separable lean only trimmed to 1/4\" fat choice cooked roasted",
+        "nutrients": {
+            "calories": 209.0,
+            "carbohydrates": 0.0,
+            "fats": 11.57,
+            "proteins": 24.61
+        },
+        "estimated_nutrients": {
+            "calories": 200,
+            "carbohydrates": 0,
+            "fats": 7.9,
+            "proteins": 29.4
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: proteins"
+    },
+    {
+        "item_description": "cereals ready-to-eat ralston crispy hexagons",
+        "nutrients": {
+            "calories": 379.0,
+            "carbohydrates": 86.78,
+            "fats": 0.95,
+            "proteins": 5.94
+        },
+        "estimated_nutrients": {
+            "calories": 377,
+            "carbohydrates": 84,
+            "fats": 1,
+            "proteins": 10
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: proteins"
+    },
+    {
+        "item_description": "jams and preserves apricot",
+        "nutrients": {
+            "calories": 242.0,
+            "carbohydrates": 64.4,
+            "fats": 0.2,
+            "proteins": 0.7
+        },
+        "estimated_nutrients": {
+            "calories": 242,
+            "carbohydrates": 67.9,
+            "fats": 0.1,
+            "proteins": 0.4
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: proteins"
+    },
+    {
+        "item_description": "bread pan dulce sweet yeast bread",
+        "nutrients": {
+            "calories": 367.0,
+            "carbohydrates": 56.38,
+            "fats": 11.58,
+            "proteins": 9.42
+        },
+        "estimated_nutrients": {
+            "calories": 330,
+            "carbohydrates": 58.0,
+            "fats": 10.0,
+            "proteins": 8.0
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: proteins"
+    },
+    {
+        "item_description": "beef ribeye filet boneless separable lean only trimmed to 0\" fat choice cooked grilled",
+        "nutrients": {
+            "calories": 208.0,
+            "carbohydrates": 0.51,
+            "fats": 10.26,
+            "proteins": 28.35
+        },
+        "estimated_nutrients": {
+            "calories": 254,
+            "carbohydrates": 0,
+            "fats": 15.1,
+            "proteins": 27.58
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: proteins"
+    },
+    {
+        "item_description": "yogurt greek nonfat strawberry dannon oikos",
+        "nutrients": {
+            "calories": 84.0,
+            "carbohydrates": 12.53,
+            "fats": 0.22,
+            "proteins": 8.03
+        },
+        "estimated_nutrients": {
+            "calories": 90,
+            "carbohydrates": 14,
+            "fats": 0,
+            "proteins": 10
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: proteins"
+    },
+    {
+        "item_description": "swisswurst pork and beef with swiss cheese smoked",
+        "nutrients": {
+            "calories": 307.0,
+            "carbohydrates": 1.6,
+            "fats": 27.37,
+            "proteins": 12.69
+        },
+        "estimated_nutrients": {
+            "calories": 330,
+            "carbohydrates": 1.5,
+            "fats": 28.0,
+            "proteins": 14.0
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: proteins"
+    },
+    {
+        "item_description": "pork fresh leg (ham) rump half separable lean and fat cooked roasted",
+        "nutrients": {
+            "calories": 209.0,
+            "carbohydrates": 0.0,
+            "fats": 10.32,
+            "proteins": 27.03
+        },
+        "estimated_nutrients": {
+            "calories": 213,
+            "carbohydrates": 0,
+            "fats": 11.1,
+            "proteins": 25.6
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: proteins"
+    },
+    {
+        "item_description": "lima beans immature seeds frozen baby cooked boiled drained without salt",
+        "nutrients": {
+            "calories": 105.0,
+            "carbohydrates": 19.45,
+            "fats": 0.3,
+            "proteins": 6.65
+        },
+        "estimated_nutrients": {
+            "calories": 115,
+            "carbohydrates": 20.3,
+            "fats": 0.3,
+            "proteins": 6.8
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: proteins"
+    },
+    {
+        "item_description": "beef top sirloin steak separable lean and fat trimmed to 1/8\" fat all grades raw",
+        "nutrients": {
+            "calories": 201.0,
+            "carbohydrates": 0.0,
+            "fats": 12.71,
+            "proteins": 20.3
+        },
+        "estimated_nutrients": {
+            "calories": 156,
+            "carbohydrates": 0,
+            "fats": 8.1,
+            "proteins": 20.9
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: proteins"
+    },
+    {
+        "item_description": "beans black turtle mature seeds cooked boiled with salt",
+        "nutrients": {
+            "calories": 130.0,
+            "carbohydrates": 24.35,
+            "fats": 0.35,
+            "proteins": 8.18
+        },
+        "estimated_nutrients": {
+            "calories": 132,
+            "carbohydrates": 24,
+            "fats": 0.5,
+            "proteins": 8.9
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: proteins"
+    },
+    {
+        "item_description": "salad dressing blue or roquefort cheese dressing commercial regular",
+        "nutrients": {
+            "calories": 484.0,
+            "carbohydrates": 4.77,
+            "fats": 51.1,
+            "proteins": 1.37
+        },
+        "estimated_nutrients": {
+            "calories": 687,
+            "carbohydrates": 3.4,
+            "fats": 75.0,
+            "proteins": 2.3
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: proteins"
+    },
+    {
+        "item_description": "pork fresh loin center rib (chops or roasts) boneless separable lean and fat raw",
+        "nutrients": {
+            "calories": 211.0,
+            "carbohydrates": 0.0,
+            "fats": 14.01,
+            "proteins": 19.9
+        },
+        "estimated_nutrients": {
+            "calories": 181,
+            "carbohydrates": 0,
+            "fats": 10.2,
+            "proteins": 20.8
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: proteins"
+    },
+    {
+        "item_description": "lamb new zealand imported tenderloin separable lean and fat raw",
+        "nutrients": {
+            "calories": 120.0,
+            "carbohydrates": 0.01,
+            "fats": 4.22,
+            "proteins": 20.43
+        },
+        "estimated_nutrients": {
+            "calories": 201,
+            "carbohydrates": 0,
+            "fats": 12.1,
+            "proteins": 20.5
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: proteins"
+    },
+    {
+        "item_description": "kfc popcorn chicken",
+        "nutrients": {
+            "calories": 351.0,
+            "carbohydrates": 21.18,
+            "fats": 21.74,
+            "proteins": 17.67
+        },
+        "estimated_nutrients": {
+            "calories": 380.0,
+            "carbohydrates": 18.0,
+            "fats": 25.0,
+            "proteins": 19.0
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: proteins"
+    },
+    {
+        "item_description": "beef round eye of round roast separable lean and fat trimmed to 1/8\" fat all grades cooked roasted",
+        "nutrients": {
+            "calories": 208.0,
+            "carbohydrates": 0.0,
+            "fats": 9.65,
+            "proteins": 28.31
+        },
+        "estimated_nutrients": {
+            "calories": 191,
+            "carbohydrates": 0,
+            "fats": 7,
+            "proteins": 30
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: proteins"
+    },
+    {
+        "item_description": "campbell's red and white cream of celery soup condensed",
+        "nutrients": {
+            "calories": 73.0,
+            "carbohydrates": 7.26,
+            "fats": 4.84,
+            "proteins": 0.81
+        },
+        "estimated_nutrients": {
+            "calories": 70,
+            "carbohydrates": 8.7,
+            "fats": 3.3,
+            "proteins": 1.4
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: proteins"
+    },
+    {
+        "item_description": "hearts of palm canned",
+        "nutrients": {
+            "calories": 28.0,
+            "carbohydrates": 4.62,
+            "fats": 0.62,
+            "proteins": 2.52
+        },
+        "estimated_nutrients": {
+            "calories": 28,
+            "carbohydrates": 4.62,
+            "fats": 0.62,
+            "proteins": 2.52
+        },
+        "correct": true,
+        "reason": "Match"
+    },
+    {
+        "item_description": "oil soybean lecithin",
+        "nutrients": {
+            "calories": 763.0,
+            "carbohydrates": 0.0,
+            "fats": 100.0,
+            "proteins": 0.0
+        },
+        "estimated_nutrients": {
+            "calories": 900,
+            "carbohydrates": 0,
+            "fats": 100,
+            "proteins": 0
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: calories"
+    },
+    {
+        "item_description": "lamb australian imported fresh rib chop frenched bone-in separable lean only trimmed to 1/8\" fat cooked grilled",
+        "nutrients": {
+            "calories": 234.0,
+            "carbohydrates": 0.0,
+            "fats": 11.68,
+            "proteins": 32.16
+        },
+        "estimated_nutrients": {
+            "calories": 258,
+            "carbohydrates": 0.0,
+            "fats": 16.5,
+            "proteins": 25.6
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: proteins"
+    },
+    {
+        "item_description": "margarine-like vegetable oil spread 60% fat tub with salt with added vitamin d",
+        "nutrients": {
+            "calories": 533.0,
+            "carbohydrates": 0.86,
+            "fats": 59.81,
+            "proteins": 0.17
+        },
+        "estimated_nutrients": {
+            "calories": 540,
+            "carbohydrates": 0.9,
+            "fats": 60,
+            "proteins": 0.2
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: proteins"
+    },
+    {
+        "item_description": "chicken broilers or fryers dark meat thigh meat and skin cooked braised",
+        "nutrients": {
+            "calories": 229.0,
+            "carbohydrates": 0.0,
+            "fats": 15.43,
+            "proteins": 22.57
+        },
+        "estimated_nutrients": {
+            "calories": 245,
+            "carbohydrates": 0,
+            "fats": 15.52,
+            "proteins": 25.97
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: proteins"
+    },
+    {
+        "item_description": "pork fresh loin top loin (chops) boneless separable lean only with added solution cooked pan-broiled",
+        "nutrients": {
+            "calories": 169.0,
+            "carbohydrates": 0.0,
+            "fats": 5.0,
+            "proteins": 28.95
+        },
+        "estimated_nutrients": {
+            "calories": 201,
+            "carbohydrates": 0,
+            "fats": 8.6,
+            "proteins": 26.45
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: proteins"
+    },
+    {
+        "item_description": "cheese puffs and twists corn based baked low fat",
+        "nutrients": {
+            "calories": 432.0,
+            "carbohydrates": 72.35,
+            "fats": 12.1,
+            "proteins": 8.5
+        },
+        "estimated_nutrients": {
+            "calories": 425,
+            "carbohydrates": 71,
+            "fats": 17,
+            "proteins": 7.7
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: proteins"
+    },
+    {
+        "item_description": "fast food pizza chain 14\" pizza pepperoni topping regular crust",
+        "nutrients": {
+            "calories": 282.0,
+            "carbohydrates": 31.98,
+            "fats": 11.91,
+            "proteins": 11.74
+        },
+        "estimated_nutrients": {
+            "calories": 246.0,
+            "carbohydrates": 25.0,
+            "fats": 10.0,
+            "proteins": 11.0
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: proteins"
+    },
+    {
+        "item_description": "infant formula gerber good start 2 protect plus ready-to-feed",
+        "nutrients": {
+            "calories": 66.0,
+            "carbohydrates": 7.39,
+            "fats": 3.37,
+            "proteins": 1.44
+        },
+        "estimated_nutrients": {
+            "calories": 100,
+            "carbohydrates": 11.2,
+            "fats": 5.3,
+            "proteins": 2.1
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: proteins"
+    },
+    {
+        "item_description": "usda commodity peanut butter smooth",
+        "nutrients": {
+            "calories": 588.0,
+            "carbohydrates": 23.98,
+            "fats": 49.54,
+            "proteins": 21.93
+        },
+        "estimated_nutrients": {
+            "calories": 590.0,
+            "carbohydrates": 20.0,
+            "fats": 50.0,
+            "proteins": 25.0
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: proteins"
+    },
+    {
+        "item_description": "babyfood vegetables corn creamed junior",
+        "nutrients": {
+            "calories": 65.0,
+            "carbohydrates": 16.25,
+            "fats": 0.4,
+            "proteins": 1.4
+        },
+        "estimated_nutrients": {
+            "calories": 81,
+            "carbohydrates": 17.0,
+            "fats": 1.2,
+            "proteins": 2.1
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: proteins"
+    },
+    {
+        "item_description": "lamb new zealand imported heart cooked soaked and simmered",
+        "nutrients": {
+            "calories": 161.0,
+            "carbohydrates": 0.0,
+            "fats": 6.21,
+            "proteins": 26.26
+        },
+        "estimated_nutrients": {
+            "calories": 161,
+            "carbohydrates": 0.1,
+            "fats": 5.3,
+            "proteins": 24.5
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: proteins"
+    },
+    {
+        "item_description": "lamb new zealand imported rack - fully frenched separable lean only cooked fast roasted",
+        "nutrients": {
+            "calories": 173.0,
+            "carbohydrates": 0.0,
+            "fats": 8.38,
+            "proteins": 24.39
+        },
+        "estimated_nutrients": {
+            "calories": 200,
+            "carbohydrates": 0.0,
+            "fats": 8.4,
+            "proteins": 29.6
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: proteins"
+    },
+    {
+        "item_description": "lamb australian imported fresh leg sirloin half boneless separable lean only trimmed to 1/8\" fat cooked roasted",
+        "nutrients": {
+            "calories": 215.0,
+            "carbohydrates": 0.0,
+            "fats": 10.65,
+            "proteins": 27.75
+        },
+        "estimated_nutrients": {
+            "calories": 206,
+            "carbohydrates": 0,
+            "fats": 8.95,
+            "proteins": 26.4
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: proteins"
+    },
+    {
+        "item_description": "beef short loin t-bone steak bone-in separable lean only trimmed to 1/8\" fat choice cooked grilled",
+        "nutrients": {
+            "calories": 217.0,
+            "carbohydrates": 0.0,
+            "fats": 11.05,
+            "proteins": 27.48
+        },
+        "estimated_nutrients": {
+            "calories": 240,
+            "carbohydrates": 0,
+            "fats": 14.37,
+            "proteins": 25.58
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: proteins"
+    },
+    {
+        "item_description": "beverages cranberry-grape juice drink bottled",
+        "nutrients": {
+            "calories": 56.0,
+            "carbohydrates": 14.0,
+            "fats": 0.1,
+            "proteins": 0.2
+        },
+        "estimated_nutrients": {
+            "calories": 61,
+            "carbohydrates": 15.5,
+            "fats": 0.1,
+            "proteins": 0.1
+        },
+        "correct": false,
+        "reason": "Values mismatch for key: proteins"
+    }
+]
