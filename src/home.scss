@@ -1,0 +1,114 @@
+@import "../node_modules/modularscale-sass/stylesheets/modularscale";
+@import "colors.scss";
+
+@font-face {
+  font-family: "apercu";
+  src: url("/fonts/apercu-regular.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "apercu mono";
+  src: url("/fonts/apercu-mono.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+
+$modularscale: (
+  base: 16px,
+  ratio: 1.25
+);
+
+body {
+  margin: 0;
+  background: $gray-100;
+  padding: ms(0);
+}
+
+* {
+  font-family: "apercu", sans-serif;
+}
+
+.page {
+  display: flex;
+  flex-direction: column;
+  gap: ms(0);
+}
+
+.tabs {
+  display: flex;
+  flex-direction: row;
+  gap: ms(-2);
+
+  .tab {
+    background: $gray-200;
+    padding: ms(-8) ms(-6);
+    cursor: pointer;
+    border-radius: ms(-6);
+
+    &.selected {
+      background: $emerald-300;
+    }
+
+    &:active {
+      transform: scale(0.95);
+    }
+  }
+}
+
+.values {
+  display: flex;
+  flex-direction: row;
+  gap: ms(-8);
+  height: ms(12);
+  padding: ms(0);
+  background: white;
+  border-radius: ms(-4);
+  overflow-x: scroll;
+  justify-content: center;
+
+  .value {
+    position: relative;
+    height: ms(12);
+    width: ms(-5);
+    border-radius: ms(-6);
+    flex-shrink: 0;
+
+    &:hover {
+      background: $gray-100;
+    }
+
+    .dot {
+      position: absolute;
+      width: ms(-5);
+      height: ms(-5);
+      transform: rotate(45deg);
+      border-radius: 100%;
+
+      &.true {
+        background: $emerald-600;
+        z-index: 2;
+      }
+
+      &.predicted {
+        background: $emerald-300;
+        z-index: 1;
+      }
+    }
+
+    .error {
+      position: absolute;
+      z-index: 0;
+      width: ms(-5);
+      background-color: $emerald-100;
+    }
+  }
+}
+
+.quicklook {
+  justify-content: space-between;
+  display: flex;
+  flex-direction: row;
+  gap: ms(0);
+}
